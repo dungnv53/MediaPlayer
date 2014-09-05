@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:id="@+id/widget32"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@drawable/background">
+	<Button android:text="@string/start" android:layout_width="fill_parent" android:layout_height="wrap_content" android:autoText="true" android:id="@+id/load" android:drawableLeft="@drawable/multimedia" android:layout_x="0dip" android:layout_y="409dip"></Button>
+	<Button android:text="@string/exit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/exit" android:drawableLeft="@drawable/quit" android:layout_x="0dip" android:layout_y="458dip"></Button>
+</AbsoluteLayout>
